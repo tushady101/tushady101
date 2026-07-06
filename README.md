@@ -1,106 +1,125 @@
 # Hi, I'm Harrison 👋
 
-## Cloud Engineer & DevOps
+## Cloud Engineer | Azure Administrator | DevOps Enthusiast | Docker & Linux Practitioner
 
-I build cloud-native applications using Azure, Docker, Linux, and CI/CD pipelines.
+I am a Cloud Engineer and DevOps enthusiast focused on building scalable cloud-native applications on Microsoft Azure. I enjoy automating infrastructure, containerizing applications with Docker, and implementing CI/CD pipelines that improve deployment reliability.
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+---
 
-## Skills
+## 🚀 About Me
 
-**Cloud & Infrastructure**
+- ☁️ Passionate about Cloud Computing and DevOps
+- 🐳 Experienced with Docker containerization
+- ⚡ Building RESTful APIs with ASP.NET Core and Node.js
+- 🔐 Interested in cloud security and infrastructure automation
+- 📚 Continuously learning and improving my cloud engineering skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud Technologies
 - Microsoft Azure
 - Azure App Service
 - Azure SQL Database
-- Docker
-- Linux
+- Azure Storage
+- Azure Key Vault
+- Azure Virtual Machines
 
-**Languages & Frameworks**
+### DevOps & Infrastructure
+- Docker
+- GitHub Actions
+- CI/CD Pipelines
+- Linux
+- Nginx
+
+### Development
 - ASP.NET Core
 - Node.js
 - SQL Server
-
-**Tools**
+- REST APIs
 - Git & GitHub
 
-## Featured Projects
+---
 
-### BookNook API
-A personal reading tracker built with ASP.NET Core and Azure SQL.
-- 🔗 [Live demo](#) &nbsp;|&nbsp; 📦 [Repository](#)
-- Key highlight: *[add a detail — e.g. "Deployed via Azure App Service with a CI/CD pipeline through GitHub Actions"]*
+## 📂 Featured Projects
 
-<!-- Add more projects here in the same format:
+### 📚 BookNook API
+Cloud-native reading tracker API built with ASP.NET Core and Azure SQL Database.
 
-### Project Name
-Short description of what it does and the stack used.
-- 🔗 [Live demo](#) | 📦 [Repository](#)
-- Key highlight: [one interesting technical detail]
+**Key Features**
+- Full CRUD operations
+- JWT Authentication
+- Azure SQL Database integration
+- Azure App Service deployment
+- Cloud-native architecture
 
--->
+**Technologies:** ASP.NET Core, Azure SQL, Azure App Service, JWT
 
-## Currently Learning
-- *[e.g. Kubernetes, Terraform, Azure DevOps pipelines]*
+---
 
-## Get In Touch
-- 📧 *[email]*
-- 💼 *[LinkedIn]*
-- 🌐 *[personal site, if any]*
- 10
- 11
- 12
- 13
- 14
- 15
- 16
- 17
- 18
- 19
- 20
- 21
- 22
- 23
- 24
- 25
- 26
- 27
- 28
- 29
- 30
- 31
- 32
- 33
- 34
- 35
- 36
- 37
- 38
-
-- Azure App Service
-- Azure SQL Database
-
-## Featured Projects
-
-### BookNook API
-Personal reading tracker built with ASP.NET Core and Azure SQL.
-
-### CloudTask
+### ✅ CloudTask
 Task management API deployed using Docker and Azure.
 
-### Nginx Server Deployment
+**Key Features**
+- RESTful API design
+- Docker containerization
+- Azure deployment
+- Secure configuration management
+
+**Technologies:** Node.js, Express.js, Docker, Azure
+
+---
+
+### 🌐 Nginx Server Deployment
 Production-ready Nginx deployment on Azure Virtual Machine.
 
-## Certifications
+**Key Features**
+- Azure VM provisioning
+- Nginx web server configuration
+- Linux administration
+- Network security configuration
 
-- AZ-900 (Completed/In Progress)
-- AZ-104 (In Progress)
+**Technologies:** Azure VM, Nginx, Linux, Networking
 
-## Connect With Me
+---
 
-- LinkedIn: Your LinkedIn URL
-- Email: your@email.com
+## 📜 Certifications
+
+- Microsoft AZ-900: Azure Fundamentals (In Progress)
+- Microsoft AZ-104: Azure Administrator (In Progress)
+
+---
+
+## 🌱 Currently Learning
+
+- Azure Administration
+- Kubernetes
+- Terraform
+- Infrastructure as Code (IaC)
+- Advanced CI/CD Pipelines
+- Azure DevOps
+
+---
+
+## 🎯 Career Goals
+
+I am building hands-on experience in cloud engineering, DevOps, and infrastructure automation while developing production-ready projects on Microsoft Azure.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushady101&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushady101&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With me
+- LinkedIn:https://www.linkedin.com/in/harrison-egwuagu/
+- Email:htushady@gmail.com
+
+---
+
+> "Automate repetitive tasks. Build scalable solutions. Keep learning."
