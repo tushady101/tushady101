@@ -4,6 +4,12 @@
 
 I am a Cloud Engineer and DevOps enthusiast focused on building scalable cloud-native applications on Microsoft Azure. I enjoy automating infrastructure, containerizing applications with Docker, and implementing CI/CD pipelines that improve deployment reliability.
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ---
 
 ## 🚀 About Me
@@ -16,28 +22,31 @@ I am a Cloud Engineer and DevOps enthusiast focused on building scalable cloud-n
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Cloud Technologies
+### ☁️ Cloud & Infrastructure
 - Microsoft Azure
+- Azure Virtual Machines
 - Azure App Service
 - Azure SQL Database
-- Azure Storage
+- Azure Storage Accounts
 - Azure Key Vault
-- Azure Virtual Machines
+- Azure Monitor
 
-### DevOps & Infrastructure
+### 🚀 DevOps & Automation
 - Docker
 - GitHub Actions
 - CI/CD Pipelines
-- Linux
+- Linux Administration
 - Nginx
+- Infrastructure Automation
 
-### Development
-- ASP.NET Core
+### 💻 Development
+- ASP.NET Core Web API
 - Node.js
-- SQL Server
+- Express.js
 - REST APIs
+- SQL Server
 - Git & GitHub
 
 ---
@@ -45,66 +54,59 @@ I am a Cloud Engineer and DevOps enthusiast focused on building scalable cloud-n
 ## 📂 Featured Projects
 
 ### 📚 BookNook API
-Cloud-native reading tracker API built with ASP.NET Core and Azure SQL Database.
+Cloud-native reading tracker API built with ASP.NET Core and Azure.
 
-**Key Features**
-- Full CRUD operations
-- JWT Authentication
+**Highlights**
+- RESTful API development
 - Azure SQL Database integration
+- JWT Authentication
 - Azure App Service deployment
-- Cloud-native architecture
+- Full CRUD functionality
 
-**Technologies:** ASP.NET Core, Azure SQL, Azure App Service, JWT
+**Tech Stack:** ASP.NET Core, Azure SQL Database, Azure App Service, JWT
 
 ---
 
 ### ✅ CloudTask
 Task management API deployed using Docker and Azure.
 
-**Key Features**
-- RESTful API design
-- Docker containerization
+**Highlights**
+- Containerized with Docker
+- RESTful API architecture
 - Azure deployment
-- Secure configuration management
+- Secure environment configuration
 
-**Technologies:** Node.js, Express.js, Docker, Azure
+**Tech Stack:** Node.js, Express.js, Docker, Azure
 
 ---
 
 ### 🌐 Nginx Server Deployment
 Production-ready Nginx deployment on Azure Virtual Machine.
 
-**Key Features**
-- Azure VM provisioning
-- Nginx web server configuration
-- Linux administration
-- Network security configuration
+**Highlights**
+- Azure Virtual Machine provisioning
+- Linux server administration
+- Nginx configuration and management
+- Network and security setup
 
-**Technologies:** Azure VM, Nginx, Linux, Networking
-
----
-
-## 📜 Certifications
-
-- Microsoft AZ-900: Azure Fundamentals (In Progress)
-- Microsoft AZ-104: Azure Administrator (In Progress)
+**Tech Stack:** Azure VM, Linux, Nginx, Networking
 
 ---
 
 ## 🌱 Currently Learning
 
-- Azure Administration
+- Microsoft AZ-900: Azure Fundamentals
+- Microsoft AZ-104: Azure Administrator
 - Kubernetes
 - Terraform
 - Infrastructure as Code (IaC)
 - Advanced CI/CD Pipelines
-- Azure DevOps
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Objective
 
-I am building hands-on experience in cloud engineering, DevOps, and infrastructure automation while developing production-ready projects on Microsoft Azure.
+I am actively building hands-on experience in Cloud Engineering, DevOps, and Infrastructure Automation by creating real-world projects and deploying cloud-native solutions on Microsoft Azure.
 
 ---
 
@@ -116,10 +118,14 @@ I am building hands-on experience in cloud engineering, DevOps, and infrastructu
 
 ---
 
-## 📫 Connect With me
-- LinkedIn:https://www.linkedin.com/in/harrison-egwuagu/
-- Email:htushady@gmail.com
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/harrison-egwuagu/
+- 📧 Email: htushady@gmail.com
+- 🐙 GitHub: https://github.com/tushady101
 
 ---
+
+⭐ Thanks for visiting my profile!
 
 > "Automate repetitive tasks. Build scalable solutions. Keep learning."
